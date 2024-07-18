@@ -48,7 +48,7 @@ Welcome to the most epic Tic Tac Toe game ever created! 🤯 Built with HTML, CS
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/tic-tac-toe.git` 📂
+1. Clone the repository: `https://github.com/jagratimehta410/Tic-Tac-Toe-game` 📂
 2. Open the project in your favorite code editor 💻.
 3. Run the game by opening `index.html` in your web browser 🌐.
 
