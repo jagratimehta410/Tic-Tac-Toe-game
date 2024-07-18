@@ -57,15 +57,14 @@ Welcome to the most epic Tic Tac Toe game ever created! 🤯 Built with HTML, CS
 * Fork the repository and create a new branch 🌿.
 * Make your changes and submit a pull request 📝.
 
-**License 📝**
+**Live Demo**
 ---------
 
-This project is licensed under the MIT License 📜. See `LICENSE` for details.
+<a href="https://jagratimehta410.github.io/Tic-Tac-Toe-game/" target="_blank">Live 👉 Click to play the game live!</a>
 
 **Acknowledgments 🙏**
 ----------------
 
-* Special thanks to [Your Name] for creating this amazing game 🙌.
 * Inspired by the classic Tic Tac Toe game, with a modern twist 🔥.
 
 **Screenshots 📸**
